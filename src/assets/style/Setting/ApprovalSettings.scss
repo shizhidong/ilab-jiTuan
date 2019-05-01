@@ -1,0 +1,51 @@
+section [ilab-Setting-ApprovalSettings] {
+  .toolbar {
+      background: #fff;
+
+      label {
+        height:36px;
+        line-height: 36px;
+      }
+      .lin-1 {
+        width: 120px;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: right
+      }
+      .lin-2 {
+        width: 180px;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: left
+      }
+      .lin-3 {
+        width: 20%;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: left
+      }
+      .lin-4 {
+        width: 51px;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: left;
+        float:right;
+      }
+      .text1 {
+        width: 120px;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: right
+      }
+      .text2 {
+        width: 60px;
+        padding-left: 10px;
+        display: inline-block;
+        text-align: left
+      }
+  }
+  .operating {
+    text-align: center;
+    margin-top: 20px
+  }
+}

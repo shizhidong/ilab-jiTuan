@@ -1,0 +1,38 @@
+section [ilab-Login] {
+  .el-input {
+    .el-input__inner {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-color:rgba(255,255,255,0.2);
+        border-radius: 4px;
+        box-sizing: border-box;
+        color: #1f2d3d;
+        font-size: inherit;
+        height: 42px;
+        line-height: 1;
+        outline: 0;
+        padding: 3px 10px;
+        transition: border-color .2s cubic-bezier(.645,.045,.355,1);
+    }
+  }
+  .el-checkbox__input {
+    .el-checkbox__inner {
+        background-color:rgba(255,255,255,0.2);
+        border-radius: 0px;
+        border: 1px solid #fff;
+       }
+  }
+  .el-form-item__content {
+    .el-button--primary {
+        height: 42px;
+        color: #fff;
+        background: -webkit-gradient(linear, 0 0, 0 100%, from(#1975c2), to(#0e5298));
+        font-size: 16px;
+        border: 0;
+        font-weight: 800
+    }
+  }
+  
+  
+}

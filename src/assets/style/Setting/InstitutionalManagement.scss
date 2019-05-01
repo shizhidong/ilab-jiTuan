@@ -1,0 +1,26 @@
+section [ilab-Setting-InstitutionalManagement] {
+  .toolbar {
+      .Inst-right {
+        width: 476px;
+        float: right;
+        text-align: right;
+        display: inline-block;
+        .text1 {
+            width: 130px;
+            padding-right: 10px;
+            display: inline-block;
+            text-align: right
+        }
+        .text2 {
+            width: 140px;
+            padding-right: 10px;
+            display: inline-block;
+            text-align: right
+        }
+      }
+  }
+  .operating {
+    text-align: center;
+    margin-top: 20px
+  }
+}
